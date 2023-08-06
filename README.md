@@ -53,7 +53,7 @@ Run npm start dev to start the application
     
 ## Frontend 
 
-- HTML/CSS
+- HTML/SCSS
 - JavaScript
 
 ## Backend
